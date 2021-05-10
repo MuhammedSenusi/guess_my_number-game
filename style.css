@@ -14,7 +14,7 @@ html {
 body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
-  background-color: #000;
+  background-color: rgb(45, 45, 45);
 }
 
 /* LAYOUT */
